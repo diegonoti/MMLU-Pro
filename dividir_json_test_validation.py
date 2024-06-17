@@ -3,10 +3,10 @@ import pandas as pd
 import random
 
 # Cargar los archivos JSON
-with open('C:/Users/diego/OneDrive/Escritorio/MMLU-Pro/data/test/preguntas_historia_del _Peru_10_opciones.json', 'r', encoding='utf-8') as f:
+with open('data/test/preguntas_historia_del _Peru_10_opciones.json', 'r', encoding='utf-8') as f:
     preguntas_original = json.load(f)
 
-with open('C:/Users/diego/OneDrive/Escritorio/MMLU-Pro/preguntas_historia_del_peru_10_opciones_actualizado.json', 'r', encoding='utf-8') as f:
+with open('data/test/preguntas_historia_del_peru_10_opciones_actualizado.json', 'r', encoding='utf-8') as f:
     preguntas_actualizadas = json.load(f)
 
 # Unir las preguntas de ambos archivos
@@ -40,7 +40,7 @@ df_test = crear_dataframe(preguntas_test)
 df_validation = crear_dataframe(preguntas_validation)
 
 # Guardar los DataFrames en archivos CSV
-df_test.to_csv('C:/Users/diego/OneDrive/Escritorio/MMLU-Pro/data/test/MMLU-Pro_test_historia_del_peru.csv', index=False)
-df_validation.to_csv('C:/Users/diego/OneDrive/Escritorio/MMLU-Pro/data/validation/MMLU-Pro_validation_historia_del_peru.csv', index=False)
+df_test.to_csv('MMLU-Pro_test_historia_del_peru_utf8.csv', index=False, encoding='utf-8')
+df_validation.to_csv('MMLU-Pro_validation_historia_del_peru_utf8.csv', index=False, encoding='utf-8')
 
 print(f"Test questions: {df_test.shape[0]}, Validation questions: {df_validation.shape[0]}")

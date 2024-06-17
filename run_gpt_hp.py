@@ -9,7 +9,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-os.environ['OpenAI_API_KEY'] 
+OPENAI_API_KEY = os.environ['OPENAI_API_KEY'] 
 client = OpenAI()
 def get_completion(prompt: str):
     final_prompt = [
@@ -102,7 +102,9 @@ def run_single_question(single_question, cot_examples_dict, exist_result):
     prompt += format_example(question, options).strip()
     try:
         start = time.time()
+        print("******* prompt: ", prompt)
         response = get_completion(prompt)
+        print(f"******* response: {response}")
         print("requesting costs: ", time.time() - start)
     except Exception as e:
         print("error", e)

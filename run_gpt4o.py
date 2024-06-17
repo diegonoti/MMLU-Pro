@@ -107,7 +107,9 @@ def run_single_question(single_question, cot_examples_dict, exist_result):
     prompt += format_example(question, options).strip()
     try:
         start = time.time()
+        print("******* prompt: ", prompt)
         response = get_completion(prompt)
+        print(f"******* response: {response}")
         prompt = response
         print("requesting costs: ", time.time() - start)
     except Exception as e:
