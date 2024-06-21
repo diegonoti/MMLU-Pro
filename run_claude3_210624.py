@@ -5,44 +5,31 @@ import time
 import random
 import pandas as pd
 from tqdm import tqdm
-from openai import OpenAI
+import anthropic
 from dotenv import load_dotenv
+
+# Cargar las variables de entorno desde el archivo .env
 load_dotenv()
 
-#os.environ['OpenAI_API_KEY'] 
-client = OpenAI()
-
+# Configuración de la API de Claude
+client = anthropic.Anthropic(api_key=os.getenv("CLAUDE_API_KEY"))
 
 def get_completion(prompt: str):
-    final_prompt =[
-            {
-                "role": "system",
-                "content": "You are a knowledge expert, you are supposed to answer the multi-choice question to derive your final answer as `The answer is ...`."
-            },
-            {
-                "role": "user",
-                "content": [
-                    {
-                    "type": "text",
-                    "text": prompt
-                    }
-                ]
-            }
-        ]
-    #print(f"*** final_prompt: {final_prompt}")
-    #input("Press Enter to continue...")
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=final_prompt,
-        temperature=0.1,
-        max_tokens=4096,
-        top_p=1,
-        frequency_penalty=0,
-        presence_penalty=0,
-        stop=["Question:"]
-    )
-
-    return response.choices[0].message.content
+    try:
+        response = client.messages.create(
+            #model="claude-3-haiku-20240307",
+            model= "claude-3-5-sonnet-20240620",
+            system="You are an knowledge expert, you are supposed to answer the multi-choice question to derive your final answer as `The answer is ...`.",
+            max_tokens=1024,
+            temperature=0.1,
+            messages=[
+                {"role": "user", "content": prompt}
+            ]
+        )
+        return response.content[0].text
+    except Exception as e:
+        print(f"Error: {e}")
+        return None
 
 
 def load_mmlu_pro(csv_path_test, csv_path_val):
@@ -58,10 +45,7 @@ def load_mmlu_pro(csv_path_test, csv_path_val):
         except Exception as e:
             print(f"An unexpected error occurred with encoding {encoding}: {e}")
 
-    test_df = pd.read_csv(csv_path_test, encoding=encoding)
-    dev_df = pd.read_csv(csv_path_val, encoding=encoding)
-    return test_df, dev_df
-    #raise UnicodeDecodeError("All encoding attempts failed for both test and validation CSV files.")
+    raise UnicodeDecodeError("All encoding attempts failed for both test and validation CSV files.")
 
 
 
@@ -137,7 +121,7 @@ def run_single_question(single_question, cot_examples_dict, exist_result):
         response = get_completion(prompt)
         #print(f"******* response: {response}")
         prompt = response
-        print("requesting costs: ", time.time() - start)
+        #print("requesting costs: ", time.time() - start)
     except Exception as e:
         print("error", e)
         return None, None, exist
@@ -183,14 +167,14 @@ def evaluate(subjects, csv_path_test, csv_path_val):
     #dev_df = dev_df.to_dict('records')
     if not subjects:
         subjects = list(test_df.keys())
-    print("assigned subjects", subjects)
+    #print("assigned subjects", subjects)
     
     for subject in subjects:
         #test_data = test_df[subject]
         test_data = test_df.to_dict('records') 
         #print(f"*** test_data: {test_data}")
-        output_res_path = os.path.join(output_dir, subject + "_result.json")
-        output_summary_path = os.path.join(output_dir, subject + "_summary.json")
+        output_res_path = os.path.join(output_dir, subject + "_sonnet_3.5_result.json")
+        output_summary_path = os.path.join(output_dir, subject + "_sonnet_3.5_summary.json")
         res, category_record = update_result(output_res_path)
 
         cot_examples_dict = preprocess(dev_df)
@@ -259,6 +243,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     assigned_subject = [args.category] if args.category != "all" else []
-    output_dir = "eval_results/gpt4o/"
+    output_dir = "eval_results/claude/"
     os.makedirs(output_dir, exist_ok=True)
     evaluate(assigned_subject, args.csv_path_test, args.csv_path_val)

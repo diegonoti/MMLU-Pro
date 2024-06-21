@@ -1,0 +1,1410 @@
+[
+    {
+        "question": "¿Según la hipótesis de Méndez Correa el poblamiento del continente americano se produjo a través de?",
+        "options": [
+            "A) La Antártida.",
+            "B) El Pacífico.",
+            "C) El Estrecho de Behring.",
+            "D) Groenlandia.",
+            "E) Las Islas Aleutianas.",
+            "F) El océano Atlántico.",
+            "G) El mar Caribe.",
+            "H) El océano Índico.",
+            "I) El estrecho de Magallanes.",
+            "J) La Patagonia."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "El gran centro ceremonial de Chavín, de origen multirregional, tiene su asiento principal en el",
+        "options": [
+            "A) Callejón de Conchucos.",
+            "B) Valle del Río Mosna.",
+            "C) Callejón de Huaylas.",
+            "D) Cañón del Pato.",
+            "E) Valle del Río Santa.",
+            "F) Valle del Río Rímac.",
+            "G) Valle del Río Casma.",
+            "H) Callejón de Huancabamba.",
+            "I) Valle del Río Huallaga.",
+            "J) Valle del Río Marañón."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Durante el precerámico andino en la región de Junín la dieta alimenticia de los cazadores evoluciona de la carne de",
+        "options": [
+            "A) camélidos al consumo de vegetales.",
+            "B) vicuña a la de llama.",
+            "C) los cérvidos a la de camélidos.",
+            "D) vicuña a la de guanaco.",
+            "E) camélidos a la de cérvidos.",
+            "F) auquénidos a la de bovinos.",
+            "G) cérvidos al consumo de peces.",
+            "H) camélidos a la de roedores.",
+            "I) roedores a la de cérvidos.",
+            "J) équidos a la de camélidos."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "De acuerdo con el avance de los estudios arqueológicos, en el Perú el más antiguo edificio ceremonial fue construido en el valle de",
+        "options": [
+            "A) Cahuachi.",
+            "B) Zaña.",
+            "C) Paramonga.",
+            "D) Supe.",
+            "E) Chicama.",
+            "F) Rimac.",
+            "G) Moche.",
+            "H) Chillón.",
+            "I) Ica.",
+            "J) Chancay."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "La tumba del Señor de Sipán pertenece a la Cultura",
+        "options": [
+            "A) Chimú.",
+            "B) Vicus.",
+            "C) Cupisnique.",
+            "D) Tallán.",
+            "E) Mochica.",
+            "F) Lambayeque.",
+            "G) Paracas.",
+            "H) Nasca.",
+            "I) Chavín.",
+            "J) Recuay."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Los dioses de la cultura Tiahuanaco se caracterizan porque representaban figuras",
+        "options": [
+            "A) fitomorfas.",
+            "B) ornitomorfas.",
+            "C) ictiomorfas.",
+            "D) zoomorfas.",
+            "E) entomorfas.",
+            "F) antropomorfas.",
+            "G) herpetomorfas.",
+            "H) geomorfas.",
+            "I) aracnomorfas.",
+            "J) astronómicas."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "Los antiguos peruanos se preocupaban por tener chacras de cultivo en diferentes pisos ecológicos. ¿Qué es lo que les incentivaba a ello?",
+        "options": [
+            "A) La práctica de los curacas para el sustento de los ayllus.",
+            "B) Seguir con su costumbre ancestral, posiblemente desde el Formativo.",
+            "C) Las disposiciones de los incas respecto al abastecimiento de los pobladores.",
+            "D) Evitar desastres motivados por accidentes naturales, muy comunes en el Perú.",
+            "E) La necesidad de ampliar territorios para el cultivo.",
+            "F) El intercambio comercial con otras regiones.",
+            "G) El abastecimiento directo de productos de toda variedad sin intermediarios.",
+            "H) La búsqueda de nuevas tierras fértiles.",
+            "I) El aumento de la población y la demanda de alimentos.",
+            "J) El desarrollo de nuevas técnicas agrícolas."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "En la economía del Perú antiguo, el acceso a varios pisos altitudinales permitió",
+        "options": [
+            "A) el control de la reciprocidad.",
+            "B) el desarrollo de la hidráulica.",
+            "C) la redistribución de bienes.",
+            "D) la conformación de estados.",
+            "E) el intercambio comercial a larga distancia.",
+            "F) el desarrollo de la agricultura intensiva.",
+            "G) el control político de diferentes regiones.",
+            "H) la complementariedad ecológica.",
+            "I) la especialización artesanal.",
+            "J) el surgimiento de centros urbanos."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "Wari es la síntesis de tres culturas que el permitieron su desarrollo como Imperio, ellas fueron",
+        "options": [
+            "A) Huarpa – Chavín y Aymara.",
+            "B) Paracas – Huarpa y Aymara.",
+            "C) Huarpa – Nasca y Paracas.",
+            "D) Huarpa – Tiahuanaco y Lucanas.",
+            "E) Mochica – Huarpa y Tiahuanaco.",
+            "F) Nazca – Paracas y Lucanas.",
+            "G) Tiahuanaco – Mochica y Huarpa.",
+            "H) Chavín – Paracas y Nazca.",
+            "I) Huarpa – Nasca y Tiahuanaco.",
+            "J) Aymara – Tiahuanaco y Huarpa."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "Wari fue una síntesis de las de las siguientes culturas:",
+        "options": [
+            "A) Aymara, Huarpa y Tiahuanaco.",
+            "B) Paracas, Huarpa y Aymara.",
+            "C) Lupaca, Huarpa y Aymara.",
+            "D) Huarpa, Lupaca y Tiahuanaco.",
+            "E) Mochica, Huarpa y Nasca.",
+            "F) Chavín, Paracas y Huarpa.",
+            "G) Tiahuanaco, Nazca y Paracas.",
+            "H) Huarpa, Mochica y Chavín.",
+            "I) Aymara, Lupaca y Huarpa.",
+            "J) Huarpa, Nasca y Tiahuanaco."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "Durante el Horizonte Medio, el Imperio Wari significó",
+        "options": [
+            "A) la integración de las culturas de costa, sierra y selva.",
+            "B) el desarrollo aislado de las culturas regionales.",
+            "C) la conquista de Ayacucho y Tiahuanaco por el Estado Nasca.",
+            "D) el prestigio del comercio marítimo.",
+            "E) la colonización de la selva amazónica.",
+            "F) la expansión del Imperio Tiwanaku hacia la costa peruana.",
+            "G) el surgimiento de ciudades-estado en la sierra central.",
+            "H) la hegemonía de la cultura Mochica en la costa norte.",
+            "I) el desarrollo de la metalurgia del bronce.",
+            "J) la construcción de grandes centros ceremoniales en la selva."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "El imperio Wari fue una sociedad pan-peruana que se caracterizó por",
+        "options": [
+            "A) culminar la conquista del Chinchaysuyo.",
+            "B) fomentar el desarrollo urbanístico.",
+            "C) adorar a deidades nasquenses.",
+            "D) difundir la técnica de la cerámica.",
+            "E) impulsar la manufactura de cueros.",
+            "F) desarrollar la agricultura intensiva.",
+            "G) expandir el comercio a larga distancia.",
+            "H) construir grandes centros ceremoniales.",
+            "I) dominar la metalurgia del cobre.",
+            "J) establecer un sistema de caminos."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "El Horizonte Medio se caracterizó por el desarrollo de complejos urbanos en la costa y la sierra. Uno de los complejos urbanos más significativos de este periodo fue",
+        "options": [
+            "A) Puruchuco.",
+            "B) Caral.",
+            "C) Pikillaqta.",
+            "D) Chan Chán.",
+            "E) Kawachi.",
+            "F) Pachacamac.",
+            "G) Chavín de Huántar.",
+            "H) Marcahuamachuco.",
+            "I) Huari.",
+            "J) Tiwanaku."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "¿En que periodo de la historia se encontraba Europa cuando en los Andes se desarrollaba la cultura Wari?",
+        "options": [
+            "A) Edad Moderna.",
+            "B) Edad Antigua.",
+            "C) Humanismo y Renacimiento.",
+            "D) Edad Media.",
+            "E) Edad Contemporánea.",
+            "F) Edad de los Metales.",
+            "G) Edad de Piedra.",
+            "H) Edad del Bronce.",
+            "I) Edad del Hierro.",
+            "J) Edad Oscura."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "La sociedad que organizó el estado más importante de la Costa Norte durante el periodo Intermedio Tardío fue",
+        "options": [
+            "A) Tumpis.",
+            "B) Tallán.",
+            "C) Chanchán.",
+            "D) Narihualá.",
+            "E) Chimú.",
+            "F) Mochica.",
+            "G) Sicán.",
+            "H) Lambayeque.",
+            "I) Pacasmayo.",
+            "J) Piura."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "La economía de los reinos aimaras del periodo Intermedio Tardío estuvo basada, principalmente en",
+        "options": [
+            "A) la pesca lacustre.",
+            "B) la agricultura.",
+            "C) las artesanías.",
+            "D) la minería.",
+            "E) el comercio.",
+            "F) la ganadería.",
+            "G) la caza.",
+            "H) la recolección.",
+            "I) la extracción de sal.",
+            "J) la textilería."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "Las culturas de la sierra impulsaron fundamentalmente la producción agrícola y las de las costas desarrollaron especialmente la pesca. En esta actividad sobresalió",
+        "options": [
+            "A) La etnia Ishma.",
+            "B) El pueblo de Lunahuaná.",
+            "C) La nación Quechua.",
+            "D) La nación Chimú.",
+            "E) La cultura Chancay.",
+            "F) El señorío de Ichma.",
+            "G) La cultura Chincha.",
+            "H) La cultura Lima.",
+            "I) La cultura Paracas.",
+            "J) El pueblo de Chilca."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "Los chancas, pueblo con el que se enfrentaron los incas, estuvieron ubicados en lo que ahora es",
+        "options": [
+            "A) Paruro (Cusco).",
+            "B) Soras (Ayacucho).",
+            "C) Paucarcolla (Puno).",
+            "D) Pampacolca (Arequipa).",
+            "E) Lucanas (Ayacucho).",
+            "F) Cangallo (Ayacucho).",
+            "G) Vilcashuamán (Ayacucho).",
+            "H) Andahuaylas (Apurímac).",
+            "I) Cotabambas (Apurímac).",
+            "J) Aymaraes (Apurímac)."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "Los chancas, pueblo con el que se enfrentaron los incas, estuvieron ubicados en lo que ahora constituye la provincia de",
+        "options": [
+            "A) Lucanas (Ayacucho).",
+            "B) Chalhuanca (Apurímac).",
+            "C) Caylloma (Arequipa).",
+            "D) Angaraes (Huancavelica).",
+            "E) Parinacochas (Ayacucho).",
+            "F) Chincheros (Apurímac).",
+            "G) Chumbivilcas (Cusco).",
+            "H) Antabamba (Apurímac).",
+            "I) Andahuaylas (Apurímac).",
+            "J) Aymaraes (Apurímac)."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "En el antiguo Perú, todas las etnias señalaban un lugar mítico como el sitio de origen de sus ancestros. Los chancas sostenían que sus antepasados procedían de",
+        "options": [
+            "A) Parinacocha y Sarasara.",
+            "B) Chinchaycocha.",
+            "C) Titicaca y Umayo.",
+            "D) Warivilca.",
+            "E) Conococha.",
+            "F) Churicocha.",
+            "G) Pumajallo.",
+            "H) Pacupahuain.",
+            "I) Marcacocha.",
+            "J) Choclococha y Urcococha."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "Según la tradición oral los primeros miembros del ayllu surgieron de las",
+        "options": [
+            "A) pacarinas.",
+            "B) conopas.",
+            "C) jircas.",
+            "D) huacas.",
+            "E) apachetas.",
+            "F) chullpas.",
+            "G) saywas.",
+            "H) puquios.",
+            "I) cochas.",
+            "J) tambos."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "La victoria cusqueña sobre los chancas fue mérito del Inca",
+        "options": [
+            "A) Cápac Yupanqui.",
+            "B) Pachacútec.",
+            "C) Wiracocha.",
+            "D) Túpac Yupanqui.",
+            "E) Yahuar Huaca.",
+            "F) Huáscar.",
+            "G) Lloque Yupanqui.",
+            "H) Mayta Cápac.",
+            "I) Huayna Cápac.",
+            "J) Sinchi Roca."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Inca que en su juventud llevó el nombre de Yupanqui. A pesar de que no fue designado inicialmente como sucesor, logró acceder al poder porque defendió con éxito al Cusco contra los Chancas",
+        "options": [
+            "A) Lloque Yupanqui.",
+            "B) Huayna Cápac.",
+            "C) Pachacútec.",
+            "D) Mayta Cápac.",
+            "E) Tupac Yupanqui.",
+            "F) Cápac Yupanqui.",
+            "G) Sinchi Roca.",
+            "H) Yahuar Huaca.",
+            "I) Inca Roca.",
+            "J) Huáscar."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "La institución que el Inca dejaba al morir para conservar su memoria se llamaba",
+        "options": [
+            "A) Ceques.",
+            "B) Llacta.",
+            "C) Pukakunka.",
+            "D) Panaca.",
+            "E) Pariacaca.",
+            "F) Ayllu.",
+            "G) Suyu.",
+            "H) Waka.",
+            "I) Chullpa.",
+            "J) Tambo."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "En la organización político-social del Imperio Incaico, el jefe del ayllu recibía el nombre de",
+        "options": [
+            "A) Tucuyricuc.",
+            "B) Tutricut.",
+            "C) Hatunruna.",
+            "D) Apocuna.",
+            "E) Curaca.",
+            "F) Aqllawasin.",
+            "G) Auqui.",
+            "H) Yachachicc.",
+            "I) Quipucamayoc.",
+            "J) Yana."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "El conjunto de los miembros de la familia de cada Inca constituía",
+        "options": [
+            "A) una pacarina.",
+            "B) un wamani.",
+            "C) un curacazgo.",
+            "D) una llacta.",
+            "E) un hunu.",
+            "F) una panaca.",
+            "G) un suyu.",
+            "H) un ayllu real.",
+            "I) un hatun ayllu.",
+            "J) un sapan ayllu."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "El control vertical de los pisos ecológicos en el incario servía para",
+        "options": [
+            "A) obtener productos de varias zonas para el comercio.",
+            "B) tener productos diferentes por alianzas matrimoniales.",
+            "C) ejercer dominio sobre estados de diferentes regiones.",
+            "D) conquistar pueblos ubicados en diferentes zonas ecológicas.",
+            "E) establecer centros administrativos en diversos pisos altitudinales.",
+            "F) facilitar el transporte de productos a través del territorio.",
+            "G) poder acceder a productos de diferentes zonas ecológicas.",
+            "H) desarrollar técnicas agrícolas adaptadas a cada piso ecológico.",
+            "I) controlar el flujo migratorio entre diferentes regiones.",
+            "J) fortalecer la defensa del imperio ante invasiones externas."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "La excelente producción y circulación de alimentos en el Imperio de los Incas",
+        "options": [
+            "A) La planificación de los quipucamayocs.",
+            "B) La importación e intercambio de comestibles.",
+            "C) La abundancia de la flora y de la fauna.",
+            "D) El control vertical de los pisos ecológicos.",
+            "E) La construcción de collcas y tambos.",
+            "F) El desarrollo de la agricultura intensiva.",
+            "G) La existencia de un eficiente sistema de caminos.",
+            "H) El buen sistema administrativo del Estado.",
+            "I) La redistribución de excedentes por parte del Inca.",
+            "J) La especialización de las comunidades en ciertos cultivos."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "Los Incas veneraron dioses mayores y menores. Tras la conquista del Chinchaysuyo incorporaron a su religión un dios de mucho prestigio llamado",
+        "options": [
+            "A) Vichama.",
+            "B) Pariacaca.",
+            "C) Catequil.",
+            "D) Tunapa.",
+            "E) Kon.",
+            "F) Illapa.",
+            "G) Apu Catequil.",
+            "H) Wallallo Carhuancho.",
+            "I) Pachacámac.",
+            "J) Huari."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "Pariacaca fue el dios andino de",
+        "options": [
+            "A) La caza.",
+            "B) La fertilidad.",
+            "C) La sabiduría.",
+            "D) La pesca.",
+            "E) La guerra.",
+            "F) La agricultura.",
+            "G) Los animales.",
+            "H) Los muertos.",
+            "I) Los terremotos.",
+            "J) Las lluvias torrenciales."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "La Capitulación de Toledo implicó",
+        "options": [
+            "A) la autorización real para la conquista del Perú.",
+            "B) el nombramiento de Colón como Virrey y Almirante.",
+            "C) la entrega a Colón de enormes derechos sobre América.",
+            "D) el nombramiento de Pizarro como Virrey y Adelantado.",
+            "E) la autorización para repartir el tesoro de Cajamarca.",
+            "F) el establecimiento del virreinato del Perú.",
+            "G) la fundación de la ciudad de Lima.",
+            "H) el envío de una expedición para conquistar Chile.",
+            "I) la creación de la Real Audiencia de Lima.",
+            "J) la promulgación de las Leyes Nuevas."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "La invasión española se vio facilitada por las contradicciones internas del imperio. Mientras grupos antagónicos se enfrentaban en una guerra civil, la presencia de los europeos provocaba",
+        "options": [
+            "A) el reconocimiento de Atahualpa como Inca.",
+            "B) la sublevación de curacas y grupos étnicos.",
+            "C) la derrota definitiva de Huáscar.",
+            "D) la rebelión de chancas y chinchas.",
+            "E) la alianza de todas las panacas.",
+            "F) el colapso del sistema de redistribución.",
+            "G) el abandono de las ciudades y centros administrativos.",
+            "H) la pérdida de autoridad del Inca.",
+            "I) la destrucción de los santuarios y huacas.",
+            "J) la adopción de costumbres y creencias españolas."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "En las guerras de la conquista del Perú, Francisco Pizarro contó con apoyo político-militar de las etnias",
+        "options": [
+            "A) Cañar, Chachapoya y Yarovilca.",
+            "B) Huanca, Chupacho y Chincha.",
+            "C) Cañar, Chachapoya y Huanca.",
+            "D) Choño, Cañar y Guayacondo.",
+            "E) Cañar, Tallán y Chincha.",
+            "F) Lupaca, Colla y Pacaje.",
+            "G) Chimu, Chincha y Chanca.",
+            "H) Inca, Quechua y Aymara.",
+            "I) Mochica, Sicán y Lambayeque.",
+            "J) Huarco, Chincha e Ica."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "El autor de la Crónica 'Suma y Narración de los Incas', fue",
+        "options": [
+            "A) Miguel del Estete.",
+            "B) Francisco López de Gomara.",
+            "C) Pedro Sarmiento de Gamboa.",
+            "D) Juan de Betanzos.",
+            "E) Bernabé Cobo.",
+            "F) Pedro Cieza de León.",
+            "G) Juan Díez de Betanzos.",
+            "H) Cristóbal de Molina.",
+            "I) Titu Cusi Yupanqui.",
+            "J) Guaman Poma de Ayala."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "En 1542, una expedición encabezada por Francisco de Orellana descubrió el Río Amazonas. Dicha empresa fue organizada y financiada en:",
+        "options": [
+            "A) el Callao.",
+            "B) Quito.",
+            "C) Guayaquil.",
+            "D) Lima.",
+            "E) el Cusco.",
+            "F) Trujillo.",
+            "G) Piura.",
+            "H) Tumbes.",
+            "I) Cajamarca.",
+            "J) Jauja."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "El saqueo del Cusco por los conquistadores generó una violenta reacción de la nobleza indígena cusqueña contra el invasor. Esta reacción fue dirigida por",
+        "options": [
+            "A) Túpac Amaru I.",
+            "B) Quizquiz.",
+            "C) Calcuchimac.",
+            "D) Rumiñahui.",
+            "E) Chalcuchimac.",
+            "F) Manco Inca.",
+            "G) Atoc.",
+            "H) Paullu Inca.",
+            "I) Sayri Túpac.",
+            "J) Titu Cusi Yupanqui."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "El movimiento de resistencia indígena Taki Onqoy, originado en Ayacucho en 1565,",
+        "options": [
+            "A) preconizaba la paz y solidaridad entre españoles e indígenas.",
+            "B) se produjo contra la guerra civil entre los conquistadores.",
+            "C) se levantó contra los abusos de la Santa Inquisición.",
+            "D) se pronunció contra la destrucción de los recursos naturales.",
+            "E) buscaba restaurar el Imperio Inca.",
+            "F) rechazaba la evangelización y el cristianismo.",
+            "G) se organizó contra la conquista española, inspirado en las huacas regionales.",
+            "H) promovía el retorno a las tradiciones andinas.",
+            "I) se oponía al sistema de encomiendas y tributos.",
+            "J) propugnaba la alianza con otros grupos indígenas."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "La misión fundamental del licenciado don Pedro de la Gasca, cuando vino al Perú, fue",
+        "options": [
+            "A) reprimir el movimiento indígena conocido como el Taki Onkoy.",
+            "B) castigar el asesinato de Francisco Pizarro por los almagristas.",
+            "C) organizar la recaudación de tributos que debían pagar los indios.",
+            "D) asegurar la ejecución de las Leyes de Indias en defensa de los nativos.",
+            "E) establecer la Real Audiencia de Lima.",
+            "F) fundar nuevas ciudades y villas en el territorio.",
+            "G) impulsar la evangelización de los indígenas.",
+            "H) reprimir a los encomenderos que se rebelaron contra la Corona.",
+            "I) reorganizar la administración virreinal.",
+            "J) promover la exploración y conquista de nuevos territorios."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "La pacificación del Perú por Pedro de la Gasca en 1548, logró acabar con",
+        "options": [
+            "A) la guerra entre indígenas y españoles.",
+            "B) la resistencia inca en Vilcabamba.",
+            "C) la rebelión de Diego de Almagro el Mozo.",
+            "D) el movimiento del Taqui Oncoy.",
+            "E) la encomienda y el tributo indígena.",
+            "F) el tráfico de esclavos africanos.",
+            "G) la explotación de las minas de Potosí.",
+            "H) la emigración de españoles al Perú.",
+            "I) la rebelión de Gonzalo Pizarro.",
+            "J) el contrabando y el comercio ilegal."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "En la batalla de Jaquijahuana (1548) fue derrotado el plan de los",
+        "options": [
+            "A) incas de expulsar a los invasores europeos.",
+            "B) españoles de establecer las encomiendas.",
+            "C) almagristas de someter a los pizarristas.",
+            "D) conquistador de restablecer la mita minera.",
+            "E) indígenas de restaurar el Imperio Inca.",
+            "F) virreyes de imponer las Leyes Nuevas.",
+            "G) curacas de recuperar sus privilegios.",
+            "H) misioneros de evangelizar a los nativos.",
+            "I) criollos de obtener la independencia.",
+            "J) encomenderos peruanos de separarse de España."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "La última de las denominadas Guerra Civiles entre los españoles (1553 - 1554) fue liderada por",
+        "options": [
+            "A) Francisco Hernández Girón.",
+            "B) Gonzalo Pizarro.",
+            "C) Diego de Centeno.",
+            "D) Lope de Aguirre.",
+            "E) Diego de Almagro.",
+            "F) Hernando de Soto.",
+            "G) Pedro de Valdivia.",
+            "H) Sebastián de Belalcázar.",
+            "I) Cristóbal Vaca de Castro.",
+            "J) Pedro de la Gasca."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Durante la colonia, la primera forma de explotación fue la encomienda. Esta tuvo como principal fuente de recursos",
+        "options": [
+            "A) el trabajo mitayo.",
+            "B) el tributo indígena.",
+            "C) las tierras de los indígenas.",
+            "D) los tesoros incas.",
+            "E) los productos artesanales.",
+            "F) la minería de plata.",
+            "G) el comercio de esclavos.",
+            "H) la agricultura de exportación.",
+            "I) la ganadería extensiva.",
+            "J) el tráfico de especias."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Las denominadas visitas y composiciones, dos figuras jurídicas coloniales, fueron mecanismos que permitieron a los españoles",
+        "options": [
+            "A) cobrar el 'reparto' de los productores vendidos.",
+            "B) cobrar los tributos a los indígenas.",
+            "C) legalizar la posesión de las tierras ocupadas.",
+            "D) hacer cumplir la mita minera.",
+            "E) evitar los excesos de los corregidores.",
+            "F) establecer reducciones de indios.",
+            "G) imponer el trabajo forzado.",
+            "H) reclutar mano de obra para obrajes.",
+            "I) controlar el comercio ilegal.",
+            "J) evangelizar a la población nativa."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Las instituciones económicas que en la colonia degeneraron en sistemas de explotación fueron, principalmente:",
+        "options": [
+            "A) el yanaconaje y el pongaje.",
+            "B) la audiencia y el cabildo.",
+            "C) las reducciones y corregimientos.",
+            "D) la encomienda y la mita.",
+            "E) las intendencias y repartimientos.",
+            "F) el tributo y el reparto.",
+            "G) los obrajes y las panacas.",
+            "H) las composiciones y visitas.",
+            "I) los censos y capellanías.",
+            "J) la alcabala y el almojarifazgo."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "La creación de la mita de minas se realizó durante el gobierno del virrey",
+        "options": [
+            "A) Blasco Núñez de Vela.",
+            "B) Antonio de Mendoza.",
+            "C) Conde de Lemos.",
+            "D) Conde de la Moncloa.",
+            "E) Francisco de Toledo.",
+            "F) Andrés Hurtado de Mendoza.",
+            "G) Luis de Velasco.",
+            "H) García Hurtado de Mendoza.",
+            "I) Diego López de Zúñiga y Velasco.",
+            "J) Pedro Álvarez de Toledo y Leiva."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "El Tribunal del Consulado, creado a fines del siglo XVI, con sede en Lima, fue una institución con atribuciones de",
+        "options": [
+            "A) controlar el movimiento mercantil y fijar tributo de alcabala.",
+            "B) controlar el movimiento comercial y desarrollar la industria.",
+            "C) administrar justicia entre comerciantes y constituir los Estancos.",
+            "D) intervenir en la actividad comercial y desarrollar la minería.",
+            "E) regular el tráfico marítimo y fluvial.",
+            "F) intervenir en la actividad comercial y administrar justicia en el sector.",
+            "G) supervisar la acuñación de moneda.",
+            "H) recaudar impuestos aduaneros.",
+            "I) financiar expediciones de conquista.",
+            "J) otorgar licencias para el comercio."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "En el periodo colonial, los comerciantes se agrupaban en una institución denominada",
+        "options": [
+            "A) el Tribunal Mayor de Cuentas.",
+            "B) la Casa de Contratación.",
+            "C) las Cajas Reales.",
+            "D) la Real Hacienda.",
+            "E) el Gremio de Mercaderes.",
+            "F) la Junta de Comercio.",
+            "G) el Tribunal del Consulado.",
+            "H) la Sociedad de Comerciantes.",
+            "I) el Cabildo de Mercaderes.",
+            "J) la Hermandad de Comerciantes."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "En la economía colonial se denominaba almojarifazgo al impuesto",
+        "options": [
+            "A) que beneficiaba a la Iglesia.",
+            "B) a las actividades mineras.",
+            "C) que gravaba a los indígenas.",
+            "D) a la venta de ganado y carnes.",
+            "E) sobre la propiedad de la tierra.",
+            "F) a la producción artesanal.",
+            "G) sobre las transacciones comerciales.",
+            "H) de corte aduanero.",
+            "I) a la circulación de mercancías.",
+            "J) sobre la renta personal."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "La media anata era un impuesto que se gravaba a",
+        "options": [
+            "A) la compra y venta de propiedades.",
+            "B) la entrada y salida de las mercancías.",
+            "C) el tributo personal indígena.",
+            "D) la compra y donativos de los esclavos.",
+            "E) la producción de plata.",
+            "F) la venta de oficios públicos.",
+            "G) las herencias y donaciones.",
+            "H) los productos de lujo.",
+            "I) los sueldos de los empleados.",
+            "J) las fiestas y espectáculos."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "La forma de trabajo del periodo colonial que subsistió por mayor tiempo en la República fue",
+        "options": [
+            "A) el enganche.",
+            "B) el tributo indígena.",
+            "C) el esclavismo.",
+            "D) las composiciones.",
+            "E) la mita minera.",
+            "F) el pongaje.",
+            "G) el trabajo en obrajes.",
+            "H) el servicio personal.",
+            "I) la aparcería.",
+            "J) el yanaconaje."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "Sobre las Reformas Borbónicas se puede afirmar que",
+        "options": [
+            "A) incrementaron la presión fiscal colonial.",
+            "B) favorecieron a los grandes comerciantes limeños.",
+            "C) restablecieron las encomiendas y los repartos.",
+            "D) dieron participación política y burocrática al indígena.",
+            "E) sustituyeron las intendencias por los corregimientos.",
+            "F) liberalizaron el comercio con otros países.",
+            "G) promovieron la industria manufacturera local.",
+            "H) fortalecieron el poder de la Iglesia Católica.",
+            "I) impulsaron la colonización de la Amazonía.",
+            "J) establecieron la libertad de cultos."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Durante el último tercio del siglo XVIII se ejecutaron varias reformas político-administrativas bajo el modelo de la modernización borbónica. Las Intendencias organizadas en el virreinato del Perú fueron",
+        "options": [
+            "A) Trujillo, Puno, Cusco, Huamanga, Jauja, Arequipa y Guayaquil.",
+            "B) Lima, Puno, Cusco, Arequipa, Trujillo, Tarma y Huamanga.",
+            "C) Lima, Trujillo, Puno, Ayacucho, Tarma, Alto Perú y Cusco.",
+            "D) Tarma, Huamanga, Huancavelica, Arequipa, Puno, Cusco y Quito.",
+            "E) Cusco, Puno, Arequipa, Huamanga, Tarma, Piura y Arequipa.",
+            "F) Lima, Cusco, Arequipa, Huancavelica, Trujillo, Puno y Charcas.",
+            "G) Puno, Cusco, Huamanga, Tarma, Huancavelica, Lima y Chachapoyas.",
+            "H) Trujillo, Saña, Piura, Santa, Huaylas, Cajatambo y Cusco.",
+            "I) Lima, Ica, Huamanga, Huancavelica, Jauja, Cusco y Arequipa.",
+            "J) Chiclayo, Trujillo, Chachapoyas, Huánuco, Cusco, Arequipa y Arica."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "¿Quién fue la cacica de Acos, colaboradora de Túpac Amaru, condenada a la pena del garrote?",
+        "options": [
+            "A) Cecilia Túpac Amaru.",
+            "B) Micaela Bastidas.",
+            "C) Tomasa Tito Condemayta.",
+            "D) Juana Toribio Ara.",
+            "E) María Parado de Bellido.",
+            "F) Bartolina Sisa.",
+            "G) Catalina de Salas.",
+            "H) María Acevedo y Guzmán.",
+            "I) Manuela Tito Condori.",
+            "J) Francisca Zuviría."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "¿Cuál fue la causa principal del fracaso de la revolución de Túpac Amaru?",
+        "options": [
+            "A) Poderío de la represión colonial.",
+            "B) Fallas tácticas y estratégicas.",
+            "C) Localización del movimiento.",
+            "D) Rivalidad étnica entre los indios.",
+            "E) Fidelidad al Rey de España.",
+            "F) Falta de apoyo de los criollos.",
+            "G) Descoordinación entre los líderes rebeldes.",
+            "H) Escasez de recursos y provisiones.",
+            "I) Traición de algunos colaboradores cercanos.",
+            "J) Epidemias y enfermedades entre los insurgentes."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "¿Quién fue el virrey que envió al visitador José Antonio de Areche para sofocar la rebelión de Túpac Amaru y cuándo fue ejecutado éste?",
+        "options": [
+            "A) Blasco Núñez de Vela – 28 de mayo de 1681.",
+            "B) Manuel Amat y Juniet – 30 de abril de 1776.",
+            "C) Luis Velasco – 6 de mayo de 1598.",
+            "D) Diego Fernández de Córdova – 4 de enero de 1794.",
+            "E) Agustín de Jáuregui – 18 de mayo de 1781.",
+            "F) José Antonio Manso de Velasco – 25 de abril de 1766.",
+            "G) Francisco Gil de Taboada y Lemos – 10 de julio de 1796.",
+            "H) Ambrosio O'Higgins – 12 de septiembre de 1801.",
+            "I) Fernando de Abascal – 15 de noviembre de 1815.",
+            "J) Joaquín de la Pezuela – 3 de febrero de 1819."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Una de las consecuencias de la Rebelión de Túpac Amaru II fue la creación, entre 1782 y 1786, de",
+        "options": [
+            "A) los corregimientos.",
+            "B) las aduanas.",
+            "C) los cabildos.",
+            "D) las cajas reales.",
+            "E) las audiencias.",
+            "F) las intendencias.",
+            "G) los virreinatos.",
+            "H) las gobernaciones.",
+            "I) las reducciones.",
+            "J) las encomiendas."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "La etapa de la Independencia del Perú encabezada por José de San Martín y Simón Bolívar tuvo como finalidad",
+        "options": [
+            "A) aprovechar el apoyo de los próceres.",
+            "B) formar la integración de los países americanos.",
+            "C) formar la Federación de los Andes.",
+            "D) anular el poder de Francia en la nobleza limeña.",
+            "E) consolidar la autoridad de la corona española.",
+            "F) establecer un sistema monárquico constitucional.",
+            "G) eliminar el centro del poder colonial que estaba en el Perú.",
+            "H) crear una república federal en Sudamérica.",
+            "I) promover la abolición de la esclavitud.",
+            "J) instaurar un régimen de libertad económica."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "Se conoce con el nombre de motín de Balconcillo a la acción por la cual",
+        "options": [
+            "A) Bolívar expulsa a Santa Cruz.",
+            "B) La Serna sustituye a Pezuela.",
+            "C) Torre Tagle cede el poder a Sucre.",
+            "D) Pezuela derroca a La Serna.",
+            "E) Sucre derrota a La Serna en Ayacucho.",
+            "F) San Martín proclama la Independencia del Perú.",
+            "G) Gamarra depone a La Mar como presidente.",
+            "H) Riva Agüero toma el poder.",
+            "I) Bolívar declara la guerra a la Gran Colombia.",
+            "J) San Martín se entrevista con Bolívar en Guayaquil."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "Terminada la guerra de independencia, se mantuvo",
+        "options": [
+            "A) el régimen político.",
+            "B) el territorio colonial.",
+            "C) la unidad política.",
+            "D) el poder jesuita.",
+            "E) el sistema de castas.",
+            "F) la burocracia virreinal.",
+            "G) el monopolio comercial.",
+            "H) la propiedad de la tierra.",
+            "I) la estructura fiscal.",
+            "J) la autoridad eclesiástica."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "El Primer Congreso Constituyente se decidió por un gobierno tipo",
+        "options": [
+            "A) monárquico.",
+            "B) vitalicio.",
+            "C) protectoral.",
+            "D) dictatorial.",
+            "E) federal.",
+            "F) confederado.",
+            "G) aristocrático.",
+            "H) teocrático.",
+            "I) parlamentario.",
+            "J) republicano."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "Denunció al gobierno autoritario del mariscal Agustín Gamarra, y concluyó su discurso con la frase: 'Yo debo acusar, yo acuso'.",
+        "options": [
+            "A) Francisco de Paula González Vigil.",
+            "B) Bartolomé Herrera.",
+            "C) Francisco Javier de Luna Pizarro.",
+            "D) Manuel Pérez de Tudela.",
+            "E) Toribio Rodríguez de Mendoza.",
+            "F) José Faustino Sánchez Carrión.",
+            "G) Hipólito Unanue.",
+            "H) José María de Pando.",
+            "I) José Gregorio Paredes.",
+            "J) Manuel Lorenzo de Vidaurre."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Durante el gobierno de José Rufino Echenique, se produjo la revolución liberal que tuvo como causa principal",
+        "options": [
+            "A) la ley de manumisión de los esclavos.",
+            "B) el gran despilfarro fiscal.",
+            "C) el pago de la deuda externa.",
+            "D) el debate entre conservadores y liberales.",
+            "E) la ley de la consolidación.",
+            "F) el aumento de impuestos.",
+            "G) la política de libre comercio.",
+            "H) la firma del Tratado de Arequipa.",
+            "I) la intervención militar en Bolivia.",
+            "J) la creciente influencia de la Iglesia."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "En 1864 un escuadrón español tomó por la fuerza las islas de Chincha. Posteriormente se realizaron varias acciones antinacionales. El movimiento de resistencia fue liderado por",
+        "options": [
+            "A) Andrés Avelino Cáceres.",
+            "B) Nicolás de Piérola.",
+            "C) Mariano Ignacio Prado.",
+            "D) Miguel Iglesias.",
+            "E) Francisco García Calderón.",
+            "F) Pedro Diez Canseco.",
+            "G) José Balta.",
+            "H) Manuel Pardo.",
+            "I) Lizardo Montero.",
+            "J) Miguel de San Román."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "La nacionalización de las salitreras de Tarapacá fue realizada durante el gobierno de",
+        "options": [
+            "A) Ramón Castilla.",
+            "B) José Balta.",
+            "C) Juan Antonio Pezet.",
+            "D) Manuel Pardo.",
+            "E) Mariano Ignacio Prado.",
+            "F) Nicolás de Piérola.",
+            "G) Andrés Avelino Cáceres.",
+            "H) Remigio Morales Bermúdez.",
+            "I) Justiniano Borgoño.",
+            "J) Eduardo López de Romaña."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "¿Qué incentivó a Chile para declararle guerra a Bolivia y al Perú?",
+        "options": [
+            "A) Defenderse de ataques peruanos y bolivianos.",
+            "B) Recuperar territorios que le pertenecieron.",
+            "C) Vengarse de afrentas económicas impuestas por Bolivia.",
+            "D) Por la rivalidad comercial con Bolivia y Perú.",
+            "E) La ambición por las salitreras de Antofagasta y Tarapacá.",
+            "F) El deseo de expandir su territorio hacia el norte.",
+            "G) La necesidad de controlar las rutas marítimas del Pacífico Sur.",
+            "H) El apoyo brindado por potencias extranjeras como Inglaterra.",
+            "I) La inestabilidad política interna en Chile que requería una guerra exterior.",
+            "J) La búsqueda de prestigio y hegemonía regional por parte de Chile."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "El Tratado de Ancón estipulaba un plebiscito en",
+        "options": [
+            "A) Tacna y Antofagasta.",
+            "B) Tacna y Tarapacá.",
+            "C) Antofagasta y Tarapacá.",
+            "D) Arica y Tarapacá.",
+            "E) Tacna e Iquique.",
+            "F) Tacna y Arica.",
+            "G) Arica y Antofagasta.",
+            "H) Tarapacá y Atacama.",
+            "I) Tacna y Moquegua.",
+            "J) Arica e Iquique."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "El principal objetivo del contrato Grace, firmado después de la Guerra del Pacífico, fue",
+        "options": [
+            "A) promover la fundación de bancos de crédito.",
+            "B) recuperar Tarapacá, Tacna y Arica.",
+            "C) incorporar económicamente la selva al país.",
+            "D) iniciar la construcción de ferrocarriles.",
+            "E) establecer un monopolio comercial con Inglaterra.",
+            "F) obtener préstamos para la reconstrucción nacional.",
+            "G) pagar la enorme deuda externa peruana.",
+            "H) atraer inversiones extranjeras en minería y agricultura.",
+            "I) nacionalizar las principales empresas extranjeras.",
+            "J) ceder la explotación del guano a capitales británicos."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "Durante las dos primeras décadas del Siglo XX, el civilismo instaura el llamado periodo de la 'República Aristocrática', caracterizado por",
+        "options": [
+            "A) la expansión del capitalismo urbano industrial.",
+            "B) una gran inestabilidad política.",
+            "C) los inicios de las inversiones del capital británico.",
+            "D) el predominio de un pequeño grupo de propietarios industriales.",
+            "E) el surgimiento de una clase media educada y progresista.",
+            "F) la modernización del aparato estatal y la burocracia.",
+            "G) el auge de las exportaciones agrícolas y mineras.",
+            "H) la exclusión social y política de la mayoría de la población.",
+            "I) la implementación de reformas sociales y laborales.",
+            "J) el fortalecimiento del poder legislativo frente al ejecutivo."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "A comienzos del siglo XX, la incipiente industrialización peruana generó el desarrollo del movimiento sindical obrero, principalmente en Lima, orientados por las ideologías",
+        "options": [
+            "A) liberales.",
+            "B) populistas.",
+            "C) marxistas.",
+            "D) conservadoras.",
+            "E) socialcristianas.",
+            "F) apristas.",
+            "G) fascistas.",
+            "H) nacionalistas.",
+            "I) anarquistas.",
+            "J) socialdemócratas."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "En el Perú, durante el primer cuarto del siglo XX, una de las publicaciones periódicas que jugó un papel decisivo en la difusión de las ideas anarquistas, fue",
+        "options": [
+            "A) El Comercio.",
+            "B) El intelectual y el Obrero.",
+            "C) La Prensa.",
+            "D) Los Parias.",
+            "E) La Crítica.",
+            "F) El Obrero Textil.",
+            "G) Amauta.",
+            "H) Labor.",
+            "I) Claridad.",
+            "J) La Protesta."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "El paro general se usó por primera vez como medida de fuerza del proletariado, se formó la primera Central Obrera en base a los trabajadores textiles de Vitarte y se convocó la primera manifestación en los valles de Chicama (Trujillo). Fue durante el gobierno de",
+        "options": [
+            "A) Augusto B. Leguía.",
+            "B) José Pardo.",
+            "C) Manuel Candamo.",
+            "D) Sánchez Cerro.",
+            "E) Guillermo Billinghurst.",
+            "F) Oscar R. Benavides.",
+            "G) Manuel Prado Ugarteche.",
+            "H) Luis Sánchez Cerro.",
+            "I) Manuel A. Odría.",
+            "J) Ricardo Pérez Godoy."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "En la República Aristocrática (1895-1919), llamada así por el historiador Jorge Basadre, el Estado peruano fue liberal burgués. Entre los años de 1912 a 1914 estuvo gobernado por:",
+        "options": [
+            "A) José Pardo y Barreda.",
+            "B) Guillermo Billinghurst.",
+            "C) Eduardo López de Romaña.",
+            "D) Augusto B. Leguía.",
+            "E) Oscar R. Benavides.",
+            "F) Manuel Candamo.",
+            "G) Nicolás de Piérola.",
+            "H) Enrique de la Riva-Agüero.",
+            "I) Manuel Vicente Villarán.",
+            "J) Andrés Avelino Cáceres."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A partir de 1914, el capital norteamericano se hizo preponderante en la economía peruana, lo que significó",
+        "options": [
+            "A) el inicio de la deuda externa.",
+            "B) el inicio del proceso de industrialización.",
+            "C) el desplazamiento del capital británico.",
+            "D) un incremento de la exportación de manufactura.",
+            "E) el surgimiento de la banca privada.",
+            "F) la diversificación de las exportaciones.",
+            "G) el desarrollo de la agricultura de exportación.",
+            "H) la modernización de la infraestructura vial.",
+            "I) el aumento de las importaciones de bienes de consumo.",
+            "J) la expansión del sector servicios y comercio."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "¿Cuál fue el efecto principal de la Primera Guerra Mundial sobre la economía peruana?",
+        "options": [
+            "A) Colapso financiero del Estado y sector privado.",
+            "B) Estancamiento de la economía en general.",
+            "C) Disminución de la producción en general.",
+            "D) Subida de precios de los principales productos de exportación.",
+            "E) Precios bajos de los productos de exportación.",
+            "F) Cierre de mercados europeos para las exportaciones peruanas.",
+            "G) Aumento de la deuda externa con países beligerantes.",
+            "H) Escasez de bienes importados y materias primas.",
+            "I) Crecimiento de la industria nacional por sustitución de importaciones.",
+            "J) Mayor dependencia económica de Estados Unidos."
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "En pleno periodo de la República Aristocrática, paradójicamente se practicaron las primeras políticas sociales del siglo XX. La conquista popular más importante fue",
+        "options": [
+            "A) la ley de comunidades indígenas.",
+            "B) la formación de organizaciones obreras.",
+            "C) la legislación materno infantil.",
+            "D) la ley de educación nacional.",
+            "E) la jornada de ocho horas de trabajo.",
+            "F) el reconocimiento del derecho de huelga.",
+            "G) la creación del seguro social obrero.",
+            "H) el establecimiento del salario mínimo.",
+            "I) la reforma universitaria y la autonomía.",
+            "J) la ampliación del sufragio a sectores populares."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "La jornada de las 8 horas, inicialmente conquistada por los jornaleros del Muelle y Dársena del Callao, fue lograda plenamente durante el gobierno del presidente:",
+        "options": [
+            "A) Guillermo Billinghurst.",
+            "B) Augusto B. Leguía.",
+            "C) Manuel Candamo.",
+            "D) López de Romaña.",
+            "E) Oscar R. Benavides.",
+            "F) José Pardo.",
+            "G) Manuel Vicente Villarán.",
+            "H) Luis Sánchez Cerro.",
+            "I) Manuel Prado Ugarteche.",
+            "J) Andrés Avelino Cáceres."
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "En el siglo XX, la preeminencia de la inversión inglesa en la economía peruana fue desplazada por la inversión norteamericana. Este proceso se hizo evidente a partir del",
+        "options": [
+            "A) gobierno de Billinghurst.",
+            "B) segundo gobierno de José Pardo.",
+            "C) gobierno de Oscar R. Benavides.",
+            "D) gobierno de Manuel Prado.",
+            "E) primer gobierno de Fernando Belaúnde.",
+            "F) gobierno de Manuel A. Odría.",
+            "G) segundo gobierno de Augusto de Augusto B. Leguía.",
+            "H) gobierno de Juan Velasco Alvarado.",
+            "I) primer gobierno de Alan García Pérez.",
+            "J) gobierno de Alberto Fujimori."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "Desde 1920 hasta la fecha el Estado reconoce su existencia legal y su personería jurídica a un importante grupo de peruanos, al mismo tiempo que se compromete a promover su desarrollo. Este grupo está formado por",
+        "options": [
+            "A) los sindicatos agrarios y artesanales.",
+            "B) las cooperativas agrícolas y de servicios.",
+            "C) la Confederación de Campesinos.",
+            "D) las comunidades nativas y urbanas.",
+            "E) las asociaciones de productores agropecuarios.",
+            "F) las organizaciones indígenas amazónicas.",
+            "G) las rondas campesinas y urbanas.",
+            "H) las comunidades campesinas y nativas.",
+            "I) las federaciones regionales agrarias.",
+            "J) los gremios empresariales rurales."
+        ],
+        "answer": "H"
+    },
+    {
+        "question": "¿Cuáles fueron en el Perú las inmediatas repercusiones de la crisis capitalista mundial desencadenada por el Crac de 1929?",
+        "options": [
+            "A) Disminución de inversiones extranjeras y desempleo.",
+            "B) Reducción de préstamos, crisis fiscal y golpe de Estado.",
+            "C) Crisis política y derrocamiento de Leguía.",
+            "D) Crisis social, política y fin del leguiísmo.",
+            "E) Aumento de la inflación y devaluación monetaria.",
+            "F) Quiebra de bancos y empresas nacionales.",
+            "G) Incremento de la deuda externa y moratoria.",
+            "H) Reducción del gasto público y ajuste fiscal.",
+            "I) Recesión y disminución de exportaciones.",
+            "J) Paralización de obras públicas y proyectos de infraestructura."
+        ],
+        "answer": "I"
+    },
+    {
+        "question": "En el segundo gobierno de Fernando Belaúnde Terry (1980-1985), el país comenzó a experimentar una grave crisis económica, por lo que fue necesario iniciar la construcción de una serie de obras de infraestructura para dinamizar la economía. Una de las obras importantes fue la construcción",
+        "options": [
+            "A) de la represa Gallito Ciego.",
+            "B) del complejo Chavimochic.",
+            "C) del oleoducto norperuano.",
+            "D) de la siderúrgica de Chimbote.",
+            "E) de la carretera Marginal de la Selva.",
+            "F) del aeropuerto internacional Jorge Chávez.",
+            "G) del proyecto de irrigación Majes-Siguas.",
+            "H) del puerto de Paita.",
+            "I) de la central hidroeléctrica de Mantaro.",
+            "J) de la hidroeléctrica de Carhuaquero."
+        ],
+        "answer": "J"
+    },
+    {
+        "question": "Huari, una cultura muy importante de la Sierra Central, está ubicada dentro del Horizonte Medio. En relación con sus orígenes, de acuerdo con los estudios arqueológicos, los huaris recibieron la influencia de algunas culturas correspondientes a los Desarrollos Regionales como, por ejemplo,",
+        "options": [
+            "A) nasca.",
+            "B) yaro.",
+            "C) moche.",
+            "D) chavín.",
+            "E) chimú.",
+            "F) recuay.",
+            "G) tiahuanaco.",
+            "H) paracas.",
+            "I) vicús.",
+            "J) cajamarca."
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "El yanaconaje fue una institución prehispánica vinculada al trabajo de servidumbre que los españoles rescataron, desvirtuaron y mantuvieron a su favor. Esta continuó a lo largo de la República durante el siglo xix, manteniéndose aún vigente y vigorosa en parte del siglo xx, cuando fue abolida mediante",
+        "options": [
+            "A) sentencia del Tribunal Agrario.",
+            "B) la Ley de Reforma Agraria.",
+            "C) ley agraria del Congreso.",
+            "D) decreto de urgencia en la agricultura.",
+            "E) decreto supremo en la agricultura.",
+            "F) la Constitución de 1920.",
+            "G) la Ley de Tierras y Aguas.",
+            "H) el Código Rural.",
+            "I) la Ley de Comunidades Campesinas.",
+            "J) el Decreto Legislativo de Desarrollo Agrario."
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Alrededor del prestigioso y estratégico Templo de Chavín de Huántar se congregaban diversos grupos de peregrinos portando productos traídos de diferentes puntos del territorio de los Andes. Los arqueólogos consideran que poblaciones de la Selva baja y alta llevaban hojas de coca, plumas de aves, maderas y posiblemente alucinógenos; de la serranía, minerales, como la obsidiana; y, de la Costa, sal, conchas y algodón. En virtud de lo anterior se puede concluir que, además de su función propiamente ritual como oráculo, el templo se constituyó en un centro",
+        "options": [
+            "A) urbano de dominio guerrero.",
+            "B) de actividades domésticas.",
+            "C) de intercambio de productos.",
+            "D) asociado al culto al agua.",
+            "E) de control de pisos ecológicos.",
+            "F) de enseñanza y aprendizaje religioso.",
+            "G) de administración política.",
+            "H) de producción artesanal.",
+            "I) de observación astronómica.",
+            "J) de almacenamiento de alimentos."
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Las Leyes Nuevas fueron proclamadas por el rey Carlos I en 1542, disponiendo la instalación de una audiencia en Lima, como máximo organismo judicial del Perú; estaría presidida por el virrey con poderes administrativos y judiciales, las mismas que regularían la posición de los encomenderos. Los españoles que habían recibido encomiendas se opusieron a su aplicación, rebelándose contra la autoridad del Rey, pues consideraron que estas disposiciones /n I. recortaban los privilegios adquiridos por sus servicios a la Corona. /n II. imponían controles a su aprovechamiento de la mano de obra indígena. /n III. permitían entregar encomiendas hereditarias a los grupos criollos. /n IV. facultaban solo al virrey la potestad de repartir indios como vasallos.",
+        "options": [
+            "A) I, II y IV",
+            "B) I, II y III ",
+            "C) solo I",
+            "D) solo I y II",
+            "E) I, III y IV",
+            "F) II, III y IV",
+            "G) solo II",
+            "H) I y IV",
+            "I) II y IV",
+            "J) I, II, III y IV"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "El primer gobierno de Fernando Belaúnde Terry (1963 -1968) se caracterizó por la búsqueda de soluciones a los difíciles problemas sociales y económicos del país, como el atraso y abandono del agro, la inequidad del ingreso que ampliaba las brechas de pobreza y la ausencia del Estado en el territorio nacional por la falta de infraestructura. Aunque su gobierno intentó realizar reformas renovadoras, uno de los factores políticos que explica los obstáculos que enfrentó fue la",
+        "options": [
+            "A) posición de empresas extranjeras, como la International Petroleum Company.",
+            "B) presión que ejercieron los altos jefes militares en contra de su gobierno.",
+            "C) movilización de las guerrillas de izquierda en diversas regiones del país.",
+            "D) derrota en las elecciones municipales de Lima debido al triunfo de Luis Bedoya.",
+            "E) persistente oposición del partido aprista, el odriismo y grupos oligárquicos.",
+            "F) falta de apoyo del Congreso para aprobar sus reformas.",
+            "G) crisis económica global que limitó los recursos disponibles.",
+            "H) conflictos internos dentro de su propio partido.",
+            "I) resistencia de los sindicatos y movimientos laborales.",
+            "J) influencia de la Guerra Fría en la política interna del país."
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Las razones con las que se ha desacreditado la teoría que sostenía el origen autóctono del hombre americano se basan en evidencias arqueológicas, ecológicas, genéticas, culturales y lingüísticas. Estás han llevado a los investigadores a concluir que el arribo del Homo sapiens sapiens a este continente se produjo por medio de oleadas migratorias que provinieron /nI. del noroeste de Asia. /nII. de islas de Oceanía. /nIII. de África occidental.",
+        "options": [
+            "A) Solo I",
+            "B) I, II y III",
+            "C) Solo II",
+            "D) Solo I y III",
+            "E) Solo II y III",
+            "F) Solo I y II ",
+            "G) Solo III",
+            "H) Solo II y I",
+            "I) Ninguna de las anteriores",
+            "J) Todas las anteriores"
+        ],
+        "answer": "F"
+    },
+    {
+        "question": "Hace aproximadamente diez mil años, nuestra costa continental era más ancha pues el mar se había retirado como consecuencia de las glaciaciones, permitiendo el tránsito de individuos dispersos. Posteriormente, como parte de la dinámica de la Tierra, sucede un fenómeno contrario, conocido como",
+        "options": [
+            "A) Eoceno.",
+            "B) Pleistoceno.",
+            "C) Mioceno.",
+            "D) Oligoceno.",
+            "E) Paleoceno.",
+            "F) Cretácico.",
+            "G) Holoceno.",
+            "H) Triásico.",
+            "I) Jurásico.",
+            "J) Cenozoico."
+        ],
+        "answer": "G"
+    },
+    {
+        "question": "Luego de la derrota de la Gran Rebelión, los curacas de sangre que apoyaron a Condorcanqui perdieron sus títulos, fueron reemplazados por curacas intrusos – criollos, peninsulares y mestizos – que desconocían la reciprocidad y redistribución andinas. Frente a este desequilibrio, los alcaldes varayocs adquirieron mayor importancia, pero, a diferencia de la nobleza indígena, eran elegidos solo anualmente de entre los indígenas del común. De acuerdo con lo anterior, se puede concluir que, en el periodo posterior a la Gran Rebelión, /n I. se debilitaron los liderazgos étnicos indígenas, pese al fortalecimiento de la figura del varayoc. /n II. los curacas intrusos contribuyeron a debilitar políticamente a las comunidades indígenas. /n III. los varayocs fortalecieron el liderazgo étnico, pese a la presencia de curacas intrusos. /n IV. los varayocs buscaron reemplazar a los curacas de sangre, sin lograr compensar su prestigio y poder.",
+        "options": [
+            "A) II, III y IV",
+            "B) solo I y II",
+            "C) solo I y IV",
+            "D) I, III y IV",
+            "E) I, II y III",
+            "F) II y IV",
+            "G) I y III",
+            "H) I, II y IV",
+            "I) II y III",
+            "J) solo III y IV"
+        ],
+        "answer": "H"
+    }
+]

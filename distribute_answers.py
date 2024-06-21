@@ -168,7 +168,11 @@ json_data = '''
 ]
 '''
 
-json_data = os.path.join(os.path.dirname(__file__), 'questions.json')
+file_path = os.path.join(os.path.dirname(__file__), 'data/test/preguntas_historia_del_Peru_10_opciones.json')
+
+# Leer el contenido del archivo
+with open(file_path, 'r', encoding='utf-8') as file:
+    json_data = file.read()
 
 data = json.loads(json_data)
 
@@ -214,6 +218,11 @@ for item in data:
 # Imprimir el JSON modificado
 modified_json = json.dumps(data, indent=4, ensure_ascii=False)
 print(modified_json)
+
+# Guardar el JSON modificado en un archivo
+with open('preguntas_historia_del_Peru_10_opciones_modificado_distribuido.json', 'w') as file:
+    file.write(modified_json)
+
 
 # Función para imprimir la nueva distribución de respuestas correctas por opción
 def print_new_answer_distribution(data):
